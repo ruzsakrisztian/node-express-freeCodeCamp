@@ -1,7 +1,6 @@
 {
   "name": "01-node-tutorial",
   "version": "1.0.0",
-  "description": "",
   "main": "01-intro.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,14 @@
   "dependencies": {
     "bootstrap": "^5.3.1",
     "lodash": "^4.17.21"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruzsakrisztian/node-express-freeCodeCamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ruzsakrisztian/node-express-freeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/ruzsakrisztian/node-express-freeCodeCamp#readme",
+  "description": ""
 }
